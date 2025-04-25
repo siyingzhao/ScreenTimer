@@ -1,5 +1,6 @@
 # ScreenTimer
 # 透明多功能计时器
+[English Version](README.en.md)
 
 这是一个简单的多功能计时器小程序，具有以下特点：
 
@@ -8,8 +9,6 @@
 - 支持正计时和倒计时两种模式
 - 拥有开始/暂停、重置和模式切换功能
 - 可通过鼠标拖动位置
-
-[English Version](README.en.md)
 
 ## 使用方法
 
