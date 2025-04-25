@@ -2,6 +2,7 @@
 
 # Transparent Multi-functional Timer
 [中文版](README.md)
+
 This is a simple multi-functional timer application with the following features:
 
 - Transparent background
