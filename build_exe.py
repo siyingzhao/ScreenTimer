@@ -7,7 +7,7 @@ PyInstaller.__main__.run([
     'timer.py',
     '--onefile',
     '--noconsole',
-    '--name=透明正计时器',
+    '--name=ScreenTimer',
     '--icon=NONE',
     '--add-data=README.md;.'
 ])
