@@ -1,7 +1,7 @@
 # ScreenTimer
 
 # Transparent Multi-functional Timer
-
+[中文版](README.md)
 This is a simple multi-functional timer application with the following features:
 
 - Transparent background
@@ -34,10 +34,16 @@ This is a simple multi-functional timer application with the following features:
 - You can drag the interface anywhere on screen with the left mouse button
 - Click the "Switch to Count-up/Switch to Countdown" button to toggle between modes
 
+## Environment Setup
+
+1. Make sure you have Python 3.6 or higher installed
+2. Install dependencies using requirements.txt:
+   ```
+   pip install -r requirements.txt
+   ```
+
 ## How to Compile
 
 1. Make sure you have the required Python libraries: `pip install PyQt5 pyinstaller`
 2. Run the packaging script: `python build_exe.py`
 3. Find the generated executable file in the dist folder
-
-[中文版](README.md)
