@@ -31,6 +31,14 @@
 - 可通过鼠标左键拖动界面到屏幕任意位置
 - 点击"切换为正计时/切换为倒计时"按钮可在两种模式间切换
 
+## 环境配置
+
+1. 确保已安装Python 3.6或更高版本
+2. 使用requirements.txt安装依赖：
+   ```
+   pip install -r requirements.txt
+   ```
+
 ## 编译方法
 
 1. 确保已安装所需的Python库: `pip install PyQt5 pyinstaller`
